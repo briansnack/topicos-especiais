@@ -1,0 +1,15 @@
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\bin\Debug\net9.0\sistemadealunos.exe
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\bin\Debug\net9.0\sistemadealunos.deps.json
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\bin\Debug\net9.0\sistemadealunos.runtimeconfig.json
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\bin\Debug\net9.0\sistemadealunos.dll
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\bin\Debug\net9.0\sistemadealunos.pdb
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.AssemblyInfoInputs.cache
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.AssemblyInfo.cs
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.csproj.CoreCompileInputs.cache
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.sourcelink.json
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.dll
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\refint\sistemadealunos.dll
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.pdb
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\sistemadealunos.genruntimeconfig.cache
+C:\Users\snack\Desktop\topicos-especiais\sistemadealunos\obj\Debug\net9.0\ref\sistemadealunos.dll
